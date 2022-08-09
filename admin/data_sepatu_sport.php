@@ -49,7 +49,7 @@ if (isset($_POST['cari'])) {
 
       .hitung {
         display: none;
-      }
+      } 
 
     }
 
